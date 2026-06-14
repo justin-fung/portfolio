@@ -35,15 +35,15 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/resume/Justin's_Resume.pdf" 
-                download="Justin's_Resume.pdf"
+                href="/resume/Justin's_CV.pdf" 
+                download="Justin's_CV.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
               </a>
 
               <a
-                href="/resume/Justin's_Resume.pdf" 
+                href="/resume/Justin's_CV.pdf" 
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
